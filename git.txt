@@ -2,5 +2,6 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git tracks changes of files.
 Creating add a new branch is new quick.
+People's Daily Online focuses on China news, China society, China military
 
 
